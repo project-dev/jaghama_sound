@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Japan Android Group Hamamatsu Sound</string>
+    <string-array name="arrMedias">
+        <item >Sound</item>
+        <item >Movie</item>
+    </string-array>
+    <string name="txt_btnPlay">再生</string>
+    <string name="txt_btnStop">停止</string>
+
+</resources>
